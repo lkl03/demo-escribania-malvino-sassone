@@ -1,2 +1,7 @@
-# demo-escribania-malvino-sassone
-Demo web para Escribania Malvino-Sassone — diseñada por eterlab.
+# Escribania Malvino-Sassone
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
